@@ -6,6 +6,8 @@
 - Basics
 
   - [Rectanges](index.md)
+  - [Fonts](fonts.md)
+  - [Outline](outline.md)
 
 - Papertoy
 

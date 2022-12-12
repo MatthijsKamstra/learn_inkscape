@@ -16,6 +16,10 @@ brew install --cask inkscape # 👈 inkscape: 1.2.2
 
 And use the Illustrators shortcuts
 
+## fonts
+
+- https://www.fontsquirrel.com/fonts/miso
+
 ## resources
 
 - https://docsify.js.org/#/quickstart
