@@ -19,6 +19,7 @@ And use the Illustrators shortcuts
 ## fonts
 
 - https://www.fontsquirrel.com/fonts/miso
+-
 
 ## resources
 
